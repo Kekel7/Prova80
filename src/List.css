@@ -1,0 +1,12 @@
+.head {
+    display: flex;
+    font-family: 'Open Sans';
+}
+
+.bar {
+    font-size: 20px;
+    padding-top: 5px;
+    width: fit-content;
+    margin-left: 10px;
+    margin-right: 10px;
+}
